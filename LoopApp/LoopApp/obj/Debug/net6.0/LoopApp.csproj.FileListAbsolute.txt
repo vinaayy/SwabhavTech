@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\LoopApp\LoopApp\bin\Debug\net6.0\LoopApp.exe
+C:\Users\Hp\source\repos\LoopApp\LoopApp\bin\Debug\net6.0\LoopApp.deps.json
+C:\Users\Hp\source\repos\LoopApp\LoopApp\bin\Debug\net6.0\LoopApp.runtimeconfig.json
+C:\Users\Hp\source\repos\LoopApp\LoopApp\bin\Debug\net6.0\LoopApp.dll
+C:\Users\Hp\source\repos\LoopApp\LoopApp\bin\Debug\net6.0\LoopApp.pdb
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.AssemblyInfo.cs
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.dll
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\refint\LoopApp.dll
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.pdb
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\LoopApp.genruntimeconfig.cache
+C:\Users\Hp\source\repos\LoopApp\LoopApp\obj\Debug\net6.0\ref\LoopApp.dll

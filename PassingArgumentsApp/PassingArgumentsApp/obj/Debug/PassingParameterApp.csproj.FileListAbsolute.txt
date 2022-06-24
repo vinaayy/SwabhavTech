@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\obj\Debug\PassingParameterApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\obj\Debug\PassingParameterApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\obj\Debug\PassingParameterApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\bin\Debug\PassingArgumentsApp.exe.config
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\bin\Debug\PassingArgumentsApp.exe
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\bin\Debug\PassingArgumentsApp.pdb
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\obj\Debug\PassingArgumentsApp.exe
+C:\Users\Hp\source\repos\PassingArgumentsApp\PassingArgumentsApp\obj\Debug\PassingArgumentsApp.pdb

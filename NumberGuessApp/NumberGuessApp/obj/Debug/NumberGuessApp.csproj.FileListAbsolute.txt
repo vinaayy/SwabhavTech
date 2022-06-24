@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\bin\Debug\NumberGuessApp.exe.config
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\bin\Debug\NumberGuessApp.exe
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\bin\Debug\NumberGuessApp.pdb
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.exe
+C:\Users\Hp\source\repos\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.pdb

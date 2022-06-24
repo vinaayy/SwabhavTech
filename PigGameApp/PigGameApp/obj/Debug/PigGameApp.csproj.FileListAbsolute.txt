@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\bin\Debug\PigGameApp.exe.config
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\bin\Debug\PigGameApp.exe
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\bin\Debug\PigGameApp.pdb
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.exe
+C:\Users\Hp\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.pdb

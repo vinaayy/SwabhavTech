@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\obj\Debug\LoopApp1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\obj\Debug\LoopApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\obj\Debug\LoopApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\bin\Debug\LoopApp1.exe.config
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\bin\Debug\LoopApp1.exe
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\bin\Debug\LoopApp1.pdb
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\obj\Debug\LoopApp1.exe
+C:\Users\Hp\source\repos\LoopApp1\LoopApp1\obj\Debug\LoopApp1.pdb

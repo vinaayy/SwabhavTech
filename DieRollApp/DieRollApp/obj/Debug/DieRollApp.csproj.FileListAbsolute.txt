@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\obj\Debug\DieRollApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\obj\Debug\DieRollApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\obj\Debug\DieRollApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\bin\Debug\DieRollApp.exe.config
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\bin\Debug\DieRollApp.exe
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\bin\Debug\DieRollApp.pdb
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\obj\Debug\DieRollApp.exe
+C:\Users\Hp\source\repos\DieRollApp\DieRollApp\obj\Debug\DieRollApp.pdb
